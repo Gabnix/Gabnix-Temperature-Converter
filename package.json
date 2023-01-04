@@ -1,0 +1,11 @@
+{
+    "name": "Gabnix-Temperature-Converter",
+    "version": "1.0.0",
+    "main": "app.py",
+    "scripts": {
+        "start": "python app.py"
+    },
+    "dependencies": {
+        "flask": "^1.1.2"
+    }
+}
